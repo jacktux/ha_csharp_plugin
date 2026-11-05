@@ -4,7 +4,7 @@ EXPOSE 5000
 
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
-COPY ["HA Plugin.csproj", "."]
+COPY ["HA_Plugin.csproj", "."]
 RUN dotnet restore "./HA_Plugin.csproj"
 COPY . .
 RUN dotnet build "HA_Plugin.csproj" -c Release -o /app/build
