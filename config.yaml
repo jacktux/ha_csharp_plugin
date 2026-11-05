@@ -1,12 +1,13 @@
 name: "My Custom C# Plugin"
-version: "1.0.0"
+version: "1.0.1"
 slug: "ha_csharp_plugin"
-description: "A high-performance ASP.NET Core API running natively inside Home Assistant."
+description: "ASP.NET Core API running natively inside Home Assistant."
 arch:
   - amd64
-  - armv7
   - aarch64
-init: false
-hassio_api: true  # Grants your C# app access to the SUPERVISOR_TOKEN
+ingress: true
+ingress_port: 5000
+hassio_api: true
+panel_icon: "mdi:language-csharp"
 ports:
-  5000/tcp: 5000  # Exposes your API port to your local network
+  5000/tcp: 5000
