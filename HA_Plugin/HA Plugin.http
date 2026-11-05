@@ -1,0 +1,6 @@
+@HA_Plugin_HostAddress = http://localhost:5029
+
+GET {{HA_Plugin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
