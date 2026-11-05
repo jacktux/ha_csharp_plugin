@@ -1,8 +1,8 @@
-FROM ://microsoft.com AS base
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 WORKDIR /app
 EXPOSE 5000
 
-FROM ://microsoft.com AS build
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 COPY ["HA Plugin.csproj", "."]
 RUN dotnet restore "./HA Plugin.csproj"
@@ -16,4 +16,3 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "HA Plugin.dll"]
-
