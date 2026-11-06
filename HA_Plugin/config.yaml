@@ -1,5 +1,5 @@
 name: "My Custom C# Plugin"
-version: "1.0.1"
+version: "1.0.2"
 slug: "ha_csharp_plugin"
 description: "ASP.NET Core API running natively inside Home Assistant."
 arch:
