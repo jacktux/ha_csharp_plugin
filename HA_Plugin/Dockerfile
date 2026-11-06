@@ -1,18 +1,18 @@
-FROM ://microsoft.com AS base
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS base
 WORKDIR /app
 EXPOSE 5000
 
-FROM ://microsoft.com AS build
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /src
-COPY ["HaCustomPluginApp.csproj", "."]
-RUN dotnet restore "./HaCustomPluginApp.csproj"
+COPY ["HA_Plugin.csproj", "."]
+RUN dotnet restore "./HA_Plugin.csproj"
 COPY . .
-RUN dotnet build "HaCustomPluginApp.csproj" -c Release -o /app/build
+RUN dotnet build "HA_Plugin.csproj" -c Release -o /app/build
 
 FROM build AS publish
-RUN dotnet publish "HaCustomPluginApp.csproj" -c Release -o /app/publish /p:UseAppHost=false
+RUN dotnet publish "HA_Plugin.csproj" -c Release -o /app/publish /p:UseAppHost=false
 
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "HaCustomPluginApp.dll"]
+ENTRYPOINT ["dotnet", "HA_Plugin.dll"]
