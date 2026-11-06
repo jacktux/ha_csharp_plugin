@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HA Plugin/1.0.0": {
+        "dependencies": {
+          "HADotNet.Core": "1.6.0",
+          "Microsoft.AspNetCore.OpenApi": "9.0.22"
+        },
+        "runtime": {
+          "HA Plugin.dll": {}
+        }
+      },
+      "HADotNet.Core/1.6.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/HADotNet.Core.dll": {
+            "assemblyVersion": "1.6.0.0",
+            "fileVersion": "1.6.0.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.OpenApi/9.0.22": {
+        "dependencies": {
+          "Microsoft.OpenApi": "1.6.31"
+        },
+        "runtime": {
+          "lib/net9.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "assemblyVersion": "9.0.22.0",
+            "fileVersion": "9.0.2226.52314"
+          }
+        }
+      },
+      "Microsoft.OpenApi/1.6.31": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "1.6.31.0",
+            "fileVersion": "1.6.31.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HA Plugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HADotNet.Core/1.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0CS4AcO6HQG0v+fnS8zogjKNTY5puuSAzP1GC/HAciy9upG3VjOtcE0PMApuZiXPzv9uP/dkwNP8B+4gnm6v2A==",
+      "path": "hadotnet.core/1.6.0",
+      "hashPath": "hadotnet.core.1.6.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.OpenApi/9.0.22": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xeQqUCszTsGXnyJwGDzWfEgWGBwNZ3FQH/C8J4OAdTugpmvg/OLoqw5kMqjaHzrW3O/EaEk8jUHu2ffRsagboA==",
+      "path": "microsoft.aspnetcore.openapi/9.0.22",
+      "hashPath": "microsoft.aspnetcore.openapi.9.0.22.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/1.6.31": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-58ggc22i0BKvHuVoj5oVVQ7EbMkEMY0FvGeoQ/yBemk36pUbroDoj1XxRTnCi+fsgDTDuf+YZmigHkEzs5B2wA==",
+      "path": "microsoft.openapi/1.6.31",
+      "hashPath": "microsoft.openapi.1.6.31.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    }
+  }
+}

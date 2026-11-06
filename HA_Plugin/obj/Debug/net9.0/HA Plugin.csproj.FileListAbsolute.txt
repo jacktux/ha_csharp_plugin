@@ -1,0 +1,36 @@
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\HA Plugin.csproj.AssemblyReference.cache
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\HA Plugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\HA Plugin.AssemblyInfoInputs.cache
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\HA Plugin.AssemblyInfo.cs
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\HA Plugin.csproj.CoreCompileInputs.cache
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\HA Plugin.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\HA Plugin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\bin\Debug\net9.0\appsettings.json
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\bin\Debug\net9.0\HA Plugin.staticwebassets.endpoints.json
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\bin\Debug\net9.0\HA Plugin.exe
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\bin\Debug\net9.0\HA Plugin.deps.json
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\bin\Debug\net9.0\HA Plugin.runtimeconfig.json
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\bin\Debug\net9.0\HA Plugin.dll
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\bin\Debug\net9.0\HA Plugin.pdb
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\bin\Debug\net9.0\HADotNet.Core.dll
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\scopedcss\bundle\HA Plugin.styles.css
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\HA Plugin.csproj.Up2Date
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\HA Plugin.dll
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\refint\HA Plugin.dll
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\HA Plugin.pdb
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\HA Plugin.genruntimeconfig.cache
+C:\Users\bromley\source\repos\HA Plugin\HA Plugin\obj\Debug\net9.0\ref\HA Plugin.dll

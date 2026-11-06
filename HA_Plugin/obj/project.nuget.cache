@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rNnyxngmJWo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bromley\\source\\repos\\HA_Plugin\\HA_Plugin\\HA_Plugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bromley\\.nuget\\packages\\hadotnet.core\\1.6.0\\hadotnet.core.1.6.0.nupkg.sha512",
+    "C:\\Users\\bromley\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.22\\microsoft.aspnetcore.openapi.9.0.22.nupkg.sha512",
+    "C:\\Users\\bromley\\.nuget\\packages\\microsoft.openapi\\1.6.31\\microsoft.openapi.1.6.31.nupkg.sha512",
+    "C:\\Users\\bromley\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.24.1-preview.1\\microsoft.visualstudio.azure.containers.tools.targets.1.24.1-preview.1.nupkg.sha512",
+    "C:\\Users\\bromley\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
